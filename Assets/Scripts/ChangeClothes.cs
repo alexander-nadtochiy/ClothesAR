@@ -11,7 +11,7 @@ using System.IO;
 
 public class ChangeClothes : MonoBehaviour {
 
-    sbyte selectCategoryUP = 1; // стартовые параметры - без учёта рандома
+    sbyte selectCategoryUP = 1; // стартовые параметры - без учёта random-a
     sbyte selectCategoryDOWN = 1;
     sbyte selectUP = 1;
     sbyte selectDOWN = 1;
